@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.next/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Data (keep examples, ignore runtime)
+*.db
+*.sqlite3
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+pgdata/

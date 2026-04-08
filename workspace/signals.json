@@ -1,0 +1,569 @@
+[
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "Pramana: Fine-Tuning LLMs for Epistemic Reasoning",
+    "summary": "通过印度古典逻辑体系Navya-Nyaya对大模型进行微调，提升系统性推理能力，减少幻觉问题。Apple研究团队参与。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.04937"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "ReVEL: LLM引导的启发式进化框架",
+    "summary": "提出多轮反思式LLM引导方法，通过结构化性能反馈自动设计NP-hard组合优化问题的启发式算法。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.04940"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "PaperOrchestra: 多Agent自动论文写作",
+    "summary": "提出多智能体框架，将非结构化研究素材自动合成为学术论文，探索AI驱动科学发现中的文本生成挑战。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05018"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "MMORF: 多Agent逆合成规划系统",
+    "summary": "多智能体框架用于多目标逆合成规划，动态平衡质量、安全和成本目标，语言模型驱动的化学任务系统。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05075"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "IntentScore: 计算机使用Agent评估",
+    "summary": "针对桌面环境GUI操作的计算机使用Agent（CUA），提出基于意图条件的动作评估方法，解决盲目执行问题。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05157"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "LLM微调用于HPC日志解析与挖掘",
+    "summary": "针对超算系统产生的海量异构非结构化日志，用指令微调的LLM进行自动解析和数据挖掘。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05168"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "ClawsBench: LLM生产力Agent能力与安全评估",
+    "summary": "针对邮件、日程、文档管理等生产力任务的LLM Agent，提出能力和安全性评估基准，模拟真实工作场景。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05172"
+  },
+  {
+    "source": "arXiv cs.AI",
+    "date": "2026-04-08",
+    "title": "Agentic AI治理规范到运行时护栏的转化方法",
+    "summary": "提出分层转化方法，将AI治理规范转化为可执行的运行时护栏控制，应对Agent式AI的多步决策和外部影响。",
+    "credibility": "标题推断",
+    "url": "https://arxiv.org/abs/2604.05229"
+  },
+  {
+    "source": "Crunchbase News",
+    "date": "2026-04-07",
+    "title": "本周值得关注的5笔初创融资",
+    "summary": "在全球风投近三分之二流向四家公司的季度里，仍有不少有趣融资案例，包括矿权信用卡、飞行渡轮和植物AI基础模型。",
+    "credibility": "标题推断",
+    "url": "https://news.crunchbase.com/venture/interesting-startup-deals-mineral-rights-flying-ferry-ai-clean-tech/"
+  },
+  {
+    "source": "Crunchbase News",
+    "date": "2026-04-02",
+    "title": "Miravoice融资630万美元：AI语音Agent做电话调研",
+    "summary": "Miravoice利用AI语音Agent进行长篇电话调研，获得630万美元种子轮融资，探索AI在调研领域的应用。",
+    "credibility": "标题推断",
+    "url": "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/"
+  },
+  {
+    "source": "Crunchbase News",
+    "date": "2026-04-02",
+    "title": "Anvil Robotics融资550万：物理AI的乐高平台",
+    "summary": "成立仅8个月的Anvil Robotics获550万美元种子轮，打造模块化机器人平台，定位为"机器人的乐高积木"。",
+    "credibility": "标题推断",
+    "url": "https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/"
+  },
+  {
+    "source": "Crunchbase News",
+    "date": "2026-04-02",
+    "title": "2026 Q1风投破纪录：AI驱动3000亿美元涌入",
+    "summary": "2026年Q1全球风投达3000亿美元，其中基础AI初创公司融资1780亿美元（24笔），是2025年全年的两倍。AI算力和前沿实验室是核心驱动力。",
+    "credibility": "标题推断",
+    "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+    "merged_url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/"
+  },
+  {
+    "source": "AWS ML Blog",
+    "date": "2026-04-07",
+    "title": "Amazon Bedrock Projects管理AI成本",
+    "summary": "通过Bedrock Projects将推理成本归属到具体工作负载，并在AWS Cost Explorer中分析，实现AI成本精细化管理。",
+    "credibility": "标题推断",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"
+  },
+  {
+    "source": "AWS ML Blog",
+    "date": "2026-04-07",
+    "title": "Amazon Nova 2 Sonic构建实时AI播客",
+    "summary": "使用Nova Sonic的流式能力构建自动播客生成器，实现两个AI主持人就任意话题进行实时对话。",
+    "credibility": "标题推断",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/"
+  },
+  {
+    "source": "AWS ML Blog",
+    "date": "2026-04-07",
+    "title": "Amazon Bedrock驱动的Text-to-SQL方案",
+    "summary": "基于Amazon Bedrock构建自然语言转SQL方案，将业务问题自动转为数据库查询并返回可执行答案。",
+    "credibility": "标题推断",
+    "url": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/"
+  },
+  {
+    "source": "AWS ML Blog",
+    "date": "2026-04-06",
+    "title": "Amazon Quick构建AI员工入职Agent",
+    "summary": "演示如何用Amazon Quick配置HR入职Agent，使其理解组织流程、连接HR系统并自动化引导新员工。",
+    "credibility": "标题推断",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"
+  },
+  {
+    "source": "AWS ML Blog",
+    "date": "2026-04-06",
+    "title": "SageMaker AI无服务器微调加速Agent工具调用",
+    "summary": "通过RLVR微调Qwen 2.5 7B Instruct以优化工具调用，涵盖三类Agent行为的数据集准备和分层奖励函数设计。",
+    "credibility": "标题推断",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/"
+  },
+  {
+    "source": "Unreal Engine Blog",
+    "date": "2026-03-31",
+    "title": "UE三月学习内容：Substrate、MetaHuman等",
+    "summary": "虚幻引擎三月学习资源更新，涵盖主机游戏开发、过场动画制作、Substrate材质系统和音效制作等技能提升内容。",
+    "credibility": "标题推断",
+    "url": "https://www.unrealengine.com/learning/marchs-epic-learning-content-substrate-metahuman-and-more"
+  },
+  {
+    "source": "Game Developer",
+    "date": "2026-04-07",
+    "title": "暴雪回应《守望先锋》安然角色视觉更新",
+    "summary": "暴雪展示安然角色的视觉改造方案，回应此前社区对角色设计的批评反馈。",
+    "credibility": "标题推断",
+    "url": "https://www.gamedeveloper.com/design/blizzard-explains-the-visual-update-to-overwatch-character-anran"
+  },
+  {
+    "source": "Game Developer",
+    "date": "2026-04-07",
+    "title": "索尼收购机器学习公司Cinemersive Labs",
+    "summary": "Cinemersive将加入SIE视觉计算部门，应用机器学习技术增强游戏画面和改进渲染技术。AI×游戏的重要并购信号。",
+    "credibility": "标题推断",
+    "url": "https://www.gamedeveloper.com/business/sony-to-acquire-machine-learning-company-cinemersive-labs"
+  },
+  {
+    "source": "Game Developer",
+    "date": "2026-04-03",
+    "title": "Take-Two裁撤AI负责人及团队成员",
+    "summary": "Take-Two的AI负责人确认离职，多名团队成员一同被裁。大型游戏公司AI战略调整的信号。",
+    "credibility": "标题推断",
+    "url": "https://www.gamedeveloper.com/business/report-take-two-lays-off-the-head-of-ai-and-unknown-number-of-team-members"
+  },
+  {
+    "source": "Game Developer",
+    "date": "2026-04-02",
+    "title": "Stormgate因AI公司收回服务器紧急开发离线模式",
+    "summary": "Stormgate团队因服务器提供商（一家AI公司）将在4月底停止服务，正紧急开发离线模式补丁。AI算力挤压游戏行业的案例。",
+    "credibility": "标题推断",
+    "url": "https://www.gamedeveloper.com/business/stormgate-rushing-offline-mode-after-losing-server-access-to-an-ai-company"
+  },
+  {
+    "source": "Game Developer",
+    "date": "2026-04-02",
+    "title": "Coffee Stain关闭马尔默工作室",
+    "summary": "《模拟山羊》开发商Coffee Stain关闭马尔默移动游戏工作室，涉及17名员工。游戏行业持续收缩的又一案例。",
+    "credibility": "标题推断",
+    "url": "https://www.gamedeveloper.com/business/goat-simulator-maker-coffee-stain-shutters-malmo-studio"
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "date": "2026-04-07",
+    "title": "Agent优先的流程再造",
+    "summary": "MIT科技评论探讨以AI Agent为核心重新设计企业流程，从传统自动化转向Agent驱动的流程架构。",
+    "credibility": "原文已读",
+    "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "date": "2026-04-06",
+    "title": "真正能揭示AI对就业影响的关键数据",
+    "summary": "探讨哪些数据维度能真正反映AI对工作岗位的影响，超越表面讨论深入分析AI与劳动力市场的关系。",
+    "credibility": "原文已读",
+    "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "date": "2026-04-06",
+    "title": "AI改变在线小卖家的选品策略",
+    "summary": "小型在线品牌商利用AI工具（如阿里巴巴Accio）优化产品决策，从传统经验驱动转向数据智能选品。",
+    "credibility": "标题推断",
+    "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "date": "2026-04-01",
+    "title": "在家训练人形机器人的零工经济",
+    "summary": "全球零工工人（如尼日利亚医学生）用手机捕捉动作数据来训练人形机器人，形成新型数据采集零工经济。2026年突破性技术之一。",
+    "credibility": "标题推断",
+    "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "date": "2026-03-31",
+    "title": "AI模型定制化已成架构必需",
+    "summary": "LLM推理和编码能力的飞跃式进步已趋于平缓，企业需从通用模型转向定制化微调，这是架构层面的必然选择。",
+    "credibility": "标题推断",
+    "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+  },
+  {
+    "source": "Import AI",
+    "date": "2026-04-06",
+    "title": "Import AI 452：网络战扩展定律与AI自动化浪潮",
+    "summary": "本期涵盖网络战的扩展定律、AI自动化加速趋势、以及GDP预测中的困惑等议题。",
+    "credibility": "原文已读",
+    "url": "https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar"
+  },
+  {
+    "source": "Import AI",
+    "date": "2026-03-30",
+    "title": "Import AI 451：政治超级智能与Google心智社会",
+    "summary": "本期讨论政治超级智能概念、Google的多Agent协作（心智社会）架构、以及机器人鼓手项目。",
+    "credibility": "原文已读",
+    "url": "https://importai.substack.com/p/import-ai-451-political-superintelligence"
+  },
+  {
+    "source": "Import AI",
+    "date": "2026-03-23",
+    "title": "Import AI 450：中国电子战模型与网络攻击扩展定律",
+    "summary": "本期关注中国电子战AI模型、LLM的心理创伤现象、以及网络攻击的扩展定律研究。",
+    "credibility": "标题推断",
+    "url": "https://importai.substack.com/p/import-ai-450-chinas-electronic-warfare"
+  },
+  {
+    "source": "Product Hunt",
+    "date": "2026-04-06",
+    "title": "OpenBrowser-AI：通过CDP连接AI Agent与浏览器",
+    "summary": "开源工具，通过原生Chrome DevTools Protocol将AI Agent连接到浏览器，实现网页自动化操作。",
+    "credibility": "标题推断",
+    "url": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate"
+  },
+  {
+    "source": "Product Hunt + Simon Willison's Blog",
+    "date": "2026-04-07",
+    "title": "Google AI Edge Gallery与Eloquent离线AI",
+    "summary": "Google发布AI Edge Gallery应用，可在手机上直接运行Gemma 4模型（E2B/E4B）；同时推出Eloquent离线AI听写功能，基于Gemma驱动。",
+    "credibility": "标题推断",
+    "url": "https://www.producthunt.com/products/google",
+    "merged_url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything"
+  },
+  {
+    "source": "Product Hunt",
+    "date": "2026-04-06",
+    "title": "Gaia：AI建筑渲染与室内设计",
+    "summary": "AI驱动的建筑效果图和室内设计工具，可快速生成高质量建筑可视化方案。",
+    "credibility": "标题推断",
+    "url": "https://www.producthunt.com/products/gaia-ai-architecture-software"
+  },
+  {
+    "source": "Product Hunt",
+    "date": "2026-04-06",
+    "title": "AI Designer MCP：Agent驱动的UI设计工具",
+    "summary": "为AI Agent提供创建美观、感知代码库的UI组件工具，通过MCP协议集成到开发工作流中。",
+    "credibility": "标题推断",
+    "url": "https://www.producthunt.com/products/aidesigner"
+  },
+  {
+    "source": "Product Hunt",
+    "date": "2026-04-06",
+    "title": "TestRelic AI：Playwright测试失败分析",
+    "summary": "AI驱动的Playwright自动化测试调试工具，可自然语言询问测试失败原因并获得诊断建议。",
+    "credibility": "标题推断",
+    "url": "https://www.producthunt.com/products/testrelic-ai"
+  },
+  {
+    "source": "Hugging Face Blog + NVIDIA Developer Blog",
+    "date": "2026-04-02",
+    "title": "Gemma 4发布：前沿多模态端侧智能",
+    "summary": "Google发布Gemma 4系列多模态多语言模型，支持从云端到边缘到设备端的全场景部署。HuggingFace和NVIDIA均第一时间支持。",
+    "credibility": "原文已读",
+    "url": "https://huggingface.co/blog/gemma4",
+    "merged_url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "date": "2026-04-01",
+    "title": "Holo3：突破计算机使用前沿",
+    "summary": "Holo3模型在计算机使用（Computer Use）任务上取得突破性进展，推动AI自主操控桌面环境的能力边界。",
+    "credibility": "原文已读",
+    "url": "https://huggingface.co/blog/Hcompany/holo3"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "date": "2026-04-01",
+    "title": "Falcon Perception视觉感知模型",
+    "summary": "TII发布Falcon Perception系列视觉感知模型，拓展Falcon模型家族在多模态理解方面的能力。",
+    "credibility": "标题推断",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "date": "2026-04-01",
+    "title": "Gradio Server：自定义前端接入Gradio后端",
+    "summary": "Gradio推出Server模式，允许开发者使用任意自定义前端框架连接Gradio后端，提升AI应用开发灵活性。",
+    "credibility": "标题推断",
+    "url": "https://huggingface.co/blog/introducing-gradio-server"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "date": "2026-03-31",
+    "title": "Granite 4.0 3B Vision：企业文档多模态模型",
+    "summary": "IBM发布Granite 4.0 3B Vision紧凑型多模态模型，专为企业文档理解场景设计。",
+    "credibility": "标题推断",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
+  },
+  {
+    "source": "Simon Willison's Blog",
+    "date": "2026-04-07",
+    "title": "GLM-5.1：面向长程任务的大模型",
+    "summary": "智谱发布GLM-5.1模型，重点提升长时间跨度任务的处理能力，在复杂多步推理场景中表现突出。",
+    "credibility": "原文已读",
+    "url": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything"
+  },
+  {
+    "source": "Simon Willison's Blog + Hacker News",
+    "date": "2026-04-07",
+    "title": "Anthropic发布Claude Mythos与Project Glasswing",
+    "summary": "Anthropic发布Claude Mythos Preview系统卡，展示其网络安全能力；同时推出Project Glasswing计划，将Mythos限制为安全研究者使用，保护关键软件基础设施。",
+    "credibility": "原文已读",
+    "url": "https://www.anthropic.com/glasswing",
+    "merged_urls": [
+      "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+      "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"
+    ]
+  },
+  {
+    "source": "Sequoia Capital Blog",
+    "date": "2026-03-31",
+    "title": "从层级制到智能化",
+    "summary": "Sequoia探讨企业组织从传统层级结构向AI智能化转型的路径，分析AI如何重塑组织决策和管理模式。",
+    "credibility": "原文已读",
+    "url": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/"
+  },
+  {
+    "source": "Sequoia Capital Blog",
+    "date": "2026-03-18",
+    "title": "Sequoia投资Edra：Agent规模化的上下文基础设施",
+    "summary": "Sequoia投资Edra，该公司为AI Agent提供规模化上下文管理能力，解决Agent在企业环境中的信息获取问题。",
+    "credibility": "原文已读",
+    "url": "https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/"
+  },
+  {
+    "source": "Sequoia Capital Blog",
+    "date": "2026-03-10",
+    "title": "Sequoia投资Scanner：AI驱动的日志分析",
+    "summary": "Sequoia投资日志分析公司Scanner，用AI技术快速从海量日志中发现关键信息，提升系统可观测性。",
+    "credibility": "标题推断",
+    "url": "https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/"
+  },
+  {
+    "source": "Google AI Blog",
+    "date": "2026-04-02",
+    "title": "Gemini API推出Flex和Priority推理层级",
+    "summary": "Gemini API新增灵活和优先级推理层级，帮助开发者在成本和可靠性之间找到最佳平衡点。",
+    "credibility": "原文已读",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+  },
+  {
+    "source": "Google AI Blog",
+    "date": "2026-04-02",
+    "title": "Google Vids免费AI视频生成功能",
+    "summary": "Google Vids更新，整合Lyria和Veo技术，提供免费的高质量AI视频生成、编辑和分享功能。",
+    "credibility": "原文已读",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
+  },
+  {
+    "source": "Google AI Blog",
+    "date": "2026-04-01",
+    "title": "Google 2026年3月AI动态汇总",
+    "summary": "Google官方汇总2026年3月AI相关更新和发布，覆盖模型、产品和平台多个维度。",
+    "credibility": "标题推断",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/"
+  },
+  {
+    "source": "Google AI Blog",
+    "date": "2026-03-31",
+    "title": "Veo 3.1 Lite：最具性价比的视频生成模型",
+    "summary": "Google发布Veo 3.1 Lite，定位为成本最优的视频生成模型，面向开发者提供高性价比的AI视频创作能力。",
+    "credibility": "标题推断",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-04-07",
+    "title": "Steam Fan Snapshot揭示PC玩家画像",
+    "summary": "GameDiscoverCo推出新工具Steam Fan Snapshot，分析PC游戏玩家偏好和行为特征，为开发者提供受众洞察。",
+    "credibility": "原文已读",
+    "url": "https://newsletter.gamediscover.co/p/what-the-steam-fan-snapshot-tells"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-04-03",
+    "title": "3月PC/主机游戏TOP榜单与Steam愿望单邮件变更",
+    "summary": "回顾3月最佳新PC/主机游戏排行，分析Steam愿望单邮件通知机制的调整对游戏发现的影响。",
+    "credibility": "原文已读",
+    "url": "https://newsletter.gamediscover.co/p/marchs-top-new-pcconsole-games-steams"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-31",
+    "title": "Retro Rewind两周近20万销量的成功密码",
+    "summary": "分析Retro Rewind如何凭借精准主题定位在两周内达到近20万份销量，附Steam区域定价建议更新。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/how-retro-rewinds-perfect-theme-hit"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-27",
+    "title": "被封禁PS开发者揭示的主机游戏发现机制",
+    "summary": "通过一位被PlayStation封禁的开发者案例，分析主机平台的游戏发现和推荐机制。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/what-a-banned-playstation-dev-tells"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-24",
+    "title": "揭秘Steam 2025年实际抽成比例24%",
+    "summary": "深度分析Steam平台2025年实际抽成数据背后的历史背景和行业意义。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/revealed-the-numbers-behind-steams"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-20",
+    "title": "Over The Top四人团队两周20万销量",
+    "summary": "仅四人开发团队的Over The Top如何在两周内达成20万份销量，独立游戏成功案例分析。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/how-over-the-top-sold-200k-copies"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-17",
+    "title": "PC游戏引擎使用趋势变化",
+    "summary": "基于数据分析PC游戏开发中各引擎（Unity、Unreal、Godot等）的市场份额变化趋势。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/hows-pc-game-engine-usage-changing"
+  },
+  {
+    "source": "GameDiscoverCo",
+    "date": "2026-03-13",
+    "title": "Steam 2026商业更新解读",
+    "summary": "解读Steam 2026年商业更新内容，分析Valve对自身平台角色的定位以及生态系统发展方向。",
+    "credibility": "标题推断",
+    "url": "https://newsletter.gamediscover.co/p/what-steams-2026-biz-update-tells"
+  },
+  {
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-04-07",
+    "title": "机架级超算的AI工作负载调度",
+    "summary": "详解在机架级超级计算机上运行AI工作负载的硬件架构和拓扑感知调度策略，优化大规模AI训练效率。",
+    "credibility": "原文已读",
+    "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/"
+  },
+  {
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-04-02",
+    "title": "VC-6批处理模式加速视觉AI流水线",
+    "summary": "利用批处理模式VC-6和NVIDIA Nsight工具加速视觉AI推理流水线，提升计算机视觉应用性能。",
+    "credibility": "原文已读",
+    "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/"
+  },
+  {
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-04-02",
+    "title": "资本市场微秒级低延迟AI推理",
+    "summary": "在算法交易场景中实现单数字微秒级推理延迟，展示NVIDIA平台在金融AI低延迟推理方面的能力。",
+    "credibility": "标题推断",
+    "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/"
+  },
+  {
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-04-01",
+    "title": "CUDA Tile编程支持BASIC语言",
+    "summary": "CUDA 13.1愚人节彩蛋：用BASIC语言编写CUDA Tile程序，虽为玩笑但实际可运行，展示CUDA的灵活性。",
+    "credibility": "标题推断",
+    "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/"
+  },
+  {
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-04-01",
+    "title": "NVIDIA极致协同设计实现最低Token成本",
+    "summary": "通过硬件、软件和模型的极致协同设计，NVIDIA平台实现AI工厂最高吞吐和最低Token成本。",
+    "credibility": "标题推断",
+    "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/"
+  },
+  {
+    "source": "OpenAI Blog",
+    "date": "2026-04-06",
+    "title": "OpenAI启动安全研究奖学金计划",
+    "summary": "试点项目，资助独立安全和对齐研究，培养下一代AI安全人才。",
+    "credibility": "标题推断",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+  },
+  {
+    "source": "OpenAI Blog",
+    "date": "2026-04-06",
+    "title": "智能时代的产业政策",
+    "summary": "OpenAI发布以人为本的AI时代产业政策构想，聚焦扩大机会、共享繁荣和建设韧性制度。",
+    "credibility": "标题推断",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+  },
+  {
+    "source": "OpenAI Blog",
+    "date": "2026-04-02",
+    "title": "OpenAI收购媒体公司TBPN",
+    "summary": "OpenAI收购TBPN以推动全球AI对话，支持独立媒体，扩大与开发者和企业的沟通渠道。",
+    "credibility": "标题推断",
+    "url": "https://openai.com/index/openai-acquires-tbpn"
+  },
+  {
+    "source": "OpenAI Blog",
+    "date": "2026-04-02",
+    "title": "Codex推出按量付费灵活定价",
+    "summary": "Codex为ChatGPT Business和Enterprise用户新增按量付费模式，降低团队采用门槛。",
+    "credibility": "标题推断",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
+  },
+  {
+    "source": "OpenAI Blog",
+    "date": "2026-04-01",
+    "title": "Gradient Labs用GPT为银行客户提供AI客户经理",
+    "summary": "Gradient Labs利用GPT-4.1和GPT-5.4 mini/nano驱动AI Agent，以低延迟高可靠性自动化银行客户支持流程。",
+    "credibility": "标题推断",
+    "url": "https://openai.com/index/gradient-labs"
+  },
+  {
+    "source": "Hacker News",
+    "date": "2026-04-08",
+    "title": "LLM爬虫机器人压垮acme.com服务器",
+    "summary": "acme.com报告其HTTPS服务器被大量LLM爬虫机器人访问导致过载，引发关于AI爬取对小型网站影响的讨论。",
+    "credibility": "标题推断",
+    "url": "http://acme.com/updates/archive/229.html"
+  },
+  {
+    "source": "Hacker News",
+    "date": "2026-04-07",
+    "title": "Google开源Agent编排测试平台Scion",
+    "summary": "Google Cloud开源实验性Agent编排测试平台Scion，用于多Agent系统的开发和评估，HN获173点关注。",
+    "credibility": "标题推断",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/"
+  }
+]

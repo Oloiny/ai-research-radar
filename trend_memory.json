@@ -1,0 +1,185 @@
+{
+  "last_updated": "2026-04-08",
+  "trends": [
+    {
+      "key": "world_model_game_engine",
+      "label": "世界模型与游戏引擎替代",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-03-27",
+      "occurrence_count": 6,
+      "related_tags": ["世界模型", "游戏引擎", "AI x 游戏", "Unity", "视频生成", "内容生产", "AI原生引擎", "开源", "游戏工具链", "Agent", "LeCun", "具身智能", "InSpatio-World", "EVA", "3D生成", "BiMotion", "AIGC", "游戏开发民主化", "DLSS 5", "CCG", "AI文游", "Capcom", "3D架构"],
+      "recent_titles": ["世界模型走向轻量化，游戏是第一站?", "世界模型变轻了: 3D架构替代像素预测", "世界模型精简革命加速落地"]
+    },
+    {
+      "key": "ai_agent_security",
+      "label": "AI Agent安全与攻击",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 6,
+      "related_tags": ["AI安全", "提示词注入", "Agent安全", "OpenClaw", "企业安全", "多Agent漏洞", "AI治理", "多Agent", "Agent生态", "基础设施", "微信", "Stripe", "Sequoia", "LiteLLM", "供应链安全", "网络安全", "Anthropic", "Glasswing", "攻防模型"],
+      "recent_titles": ["AI安全的武器化时刻到了?", "Agent供应链安全：LiteLLM只是第一枪", "LiteLLM被投毒: Agent供应链的第一枪"]
+    },
+    {
+      "key": "nvidia_ai_infrastructure",
+      "label": "NVIDIA AI基础设施",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 6,
+      "related_tags": ["NVIDIA", "Vera Rubin", "AI基础设施", "推理加速", "Dynamo", "GTC 2026", "算力", "Agent AI", "TurboQuant", "谷歌", "AI压缩", "AVO", "内存", "算力优化", "量化", "MagiCompiler", "Token经济", "推理成本", "定价策略", "Gemini"],
+      "recent_titles": ["AI推理定价战全面开打", "算力压缩：「软件吃硬件」正在发生", "TurboQuant省6倍内存，内存股先跌为敬"]
+    },
+    {
+      "key": "ai_saas_disruption",
+      "label": "AI颠覆SaaS商业模式",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 6,
+      "related_tags": ["AI商业模式", "SaaS颠覆", "Sequoia", "服务化软件", "商业范式", "Agentic AI", "产品范式", "腾讯", "阿里", "字节", "Skills", "Agent生态", "OpenClaw", "基础设施", "微信", "Stripe", "智能体", "推理模型", "范式转变", "OpenAI", "北极星计划", "千问", "企业AI", "Agent部署", "组织变革", "流程自动化", "上下文工程"],
+      "recent_titles": ["企业Agent: 重写组织还是贴补丁?", "Agent生态进入「基建抢滩」阶段", "Agent生态基础设施大重构"]
+    },
+    {
+      "key": "ai_video_generation",
+      "label": "AI视频生成赛道分化",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 4,
+      "related_tags": ["AI视频生成", "OpenAI", "Sora", "可灵", "商业化", "Sand.ai", "Google Vids", "Veo", "免费化", "商业模式"],
+      "recent_titles": ["AI视频免费化倒逼赛道洗牌", "AI视频C端路线坍塌，API接棒?", "Sora关了，可灵月收2000万美元在接盘"]
+    },
+    {
+      "key": "ai_academic_geopolitics",
+      "label": "AI学术地缘政治",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-03-27",
+      "occurrence_count": 3,
+      "related_tags": ["NeurIPS", "学术制裁", "华为", "CCF", "AI地缘政治", "科技脱钩"],
+      "recent_titles": ["NeurIPS制裁：AI学术脱钩到了临界点", "NeurIPS禁873家中国机构，CCF威胁除名", "NeurIPS学术制裁撕裂全球AI社区"]
+    },
+    {
+      "key": "ai_coding_agent_game",
+      "label": "AI编码Agent与多智能体协作",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 5,
+      "related_tags": ["AI编程", "Claude Code", "游戏开发自动化", "Godot", "编码Agent", "AI x 游戏", "多智能体", "Qoder", "Cursor", "Kimi K2.5", "开源模型", "代码生成", "微调", "多Agent", "Agent编排", "测试评估", "Google Scion", "多智能体协作"],
+      "recent_titles": ["多Agent编排走进测试时代", "开源微调成了AI编程新竞争逻辑", "Cursor底下跑的是Kimi K2.5，然后呢?"]
+    },
+    {
+      "key": "ai_game_dev_tools",
+      "label": "AI游戏开发工具链",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 6,
+      "related_tags": ["GDC", "AI游戏开发", "腾讯", "需求驱动", "游戏工具链", "AI x 游戏", "动作生成", "工程化落地", "AIGC", "游戏开发民主化", "DLSS 5", "CCG", "AI文游", "Capcom", "Pearl Abyss", "透明度", "索尼", "Take-Two", "游戏行业", "算力竞争", "AI并购"],
+      "recent_titles": ["游戏公司AI战略: 加仓还是割肉?", "游戏AIGC的「信任关」怎么过?", "Pearl Abyss忘说用了AI，游戏AIGC信任裂了"]
+    },
+    {
+      "key": "ai_agent_capability_benchmark",
+      "label": "AI Agent能力基准与部署鸿沟",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 3,
+      "related_tags": ["AI Agent", "能力基准", "企业部署", "可靠性", "长时域任务", "能力上限", "智能体", "推理模型", "范式转变", "OpenAI", "北极星计划", "千问", "Agentic AI", "企业AI", "Agent部署", "组织变革"],
+      "recent_titles": ["企业Agent: 重写组织还是贴补丁?", "从推理到智能体：AI范式大转向", "AI Agent能力边界实测：企业级任务成功率仅37%，部署鸿沟有多深？"]
+    },
+    {
+      "key": "ai_npc_game",
+      "label": "游戏AI NPC规模化落地",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-03-18",
+      "occurrence_count": 2,
+      "related_tags": ["AI NPC", "语音交互", "规模化落地", "腾讯", "游戏AI", "AI x 游戏", "AIGC", "游戏经济", "UGC", "创作者变现"],
+      "recent_titles": ["《和平精英》AI NPC：1.77亿次日交互验证游戏AI商业规模", "游戏AI内容经济双范本：UGC创作平台与AI伴侣"]
+    },
+    {
+      "key": "aigc_game_economy",
+      "label": "AIGC游戏创作经济",
+      "first_seen": "2026-03-17",
+      "last_seen": "2026-03-18",
+      "occurrence_count": 2,
+      "related_tags": ["AIGC", "游戏经济", "创作者变现", "AI x 游戏", "UGC", "商业模式创新"],
+      "recent_titles": ["《逆水寒》AIGC创作经济：AI工具让玩家年收入超1亿的新变现模式", "游戏AI内容经济双范本：UGC创作平台与AI伴侣"]
+    },
+    {
+      "key": "game_policy_china",
+      "label": "中国游戏政策与出海",
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "occurrence_count": 1,
+      "related_tags": ["政策", "游戏出海", "五年规划", "中国游戏", "欧盟监管", "商业模式"],
+      "recent_titles": ["游戏写入五年规划：政策拐点下的出海与商业重构"]
+    },
+    {
+      "key": "model_training_efficiency",
+      "label": "模型训练与专精化",
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 2,
+      "related_tags": ["模型架构", "训练优化", "Kimi", "MIT", "LLM研究", "推理效率", "LLM", "模型定制化", "专精化", "GLM-5.1", "微调", "推理能力"],
+      "recent_titles": ["LLM通用能力见顶, 专精化接棒?", "模型训练范式松动：随机扰动与注意力残差的启示"]
+    },
+    {
+      "key": "game_industry_restructuring",
+      "label": "游戏行业结构性调整",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 2,
+      "related_tags": ["Epic Games", "裁员", "堡垒之夜", "索尼", "服务型游戏", "游戏行业危机", "AI x 游戏", "Take-Two", "游戏行业", "算力竞争", "AI并购"],
+      "recent_titles": ["游戏公司AI战略: 加仓还是割肉?", "Epic千人裁员折射游戏业结构危机"]
+    },
+    {
+      "key": "xai_org_restructuring",
+      "label": "xAI组织重组与AI人才动态",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-03-27",
+      "occurrence_count": 1,
+      "related_tags": ["xAI", "马斯克", "AI人才", "组织管理", "工程文化", "TERAFAB"],
+      "recent_titles": ["xAI联创走了10个，马斯克在赌什么?"]
+    },
+    {
+      "key": "token_economics_enterprise",
+      "label": "Token经济与企业AI度量",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 2,
+      "related_tags": ["Token经济", "AI生产力", "KPI", "企业AI", "度量标准", "推理成本", "定价策略", "Gemini", "OpenAI", "NVIDIA"],
+      "recent_titles": ["AI推理定价战全面开打", "Token消耗量成了KPI，这很荒谬"]
+    },
+    {
+      "key": "aigc_game_trust",
+      "label": "游戏AIGC透明度与信任危机",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-03-27",
+      "occurrence_count": 2,
+      "related_tags": ["AI x 游戏", "AIGC", "透明度", "Pearl Abyss", "Capcom", "DLSS", "CCG"],
+      "recent_titles": ["游戏AIGC的「信任关」怎么过?", "Pearl Abyss忘说用了AI，游戏AIGC信任裂了"]
+    },
+    {
+      "key": "embodied_intelligence",
+      "label": "具身智能工程化落地",
+      "first_seen": "2026-03-27",
+      "last_seen": "2026-03-27",
+      "occurrence_count": 1,
+      "related_tags": ["具身智能", "机器人", "宇树", "ByteDance", "Sim-to-Real", "工程化"],
+      "recent_titles": ["具身智能：从demo到量产的工程赛跑"]
+    },
+    {
+      "key": "edge_multimodal_ai",
+      "label": "端侧多模态AI",
+      "first_seen": "2026-04-08",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 1,
+      "related_tags": ["端侧AI", "Gemma 4", "多模态", "Google", "模型定制化", "边缘计算"],
+      "recent_titles": ["端侧多模态AI跨过产品线了?"]
+    },
+    {
+      "key": "computer_use_agent",
+      "label": "桌面操控Agent",
+      "first_seen": "2026-04-08",
+      "last_seen": "2026-04-08",
+      "occurrence_count": 1,
+      "related_tags": ["Computer Use", "CUA", "Agent评估", "桌面自动化", "Holo3", "安全基准"],
+      "recent_titles": ["桌面操控Agent有了评分卡, 然后呢?"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 15, 23, 42;
+  --background-rgb: 252, 252, 253;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* 阅读排版 */
+.prose-research {
+  font-size: 1rem;
+  line-height: 1.85;
+  color: #334155;
+}
+
+.prose-research p {
+  margin-bottom: 1em;
+}
+
+/* 评分渐变 */
+.score-gradient-high {
+  background: linear-gradient(135deg, #fef2f2, #fff7ed);
+}
+
+.score-gradient-mid {
+  background: linear-gradient(135deg, #fffbeb, #f0fdf4);
+}
+
+.score-gradient-low {
+  background: linear-gradient(135deg, #f8fafc, #f1f5f9);
+}

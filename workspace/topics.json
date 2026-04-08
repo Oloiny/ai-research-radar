@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-08",
+  "core_insight": "AI安全从被动防御转向主动武器化, Anthropic Glasswing首创「限制性安全模型」先例; 端侧多模态和推理定价分层标志AI从能力竞赛转入经济竞赛。",
+  "signal_overview": "本期67条信号覆盖学术、产品和行业三层, 原文已读信号充足(15+条)。最突出的信号集中在两个方向: AI安全能力的产品化(Glasswing、Scion、ClawsBench)和AI推理经济性的全面竞争(Gemini分层定价、NVIDIA协同优化、Google视频免费化)。游戏行业出现罕见的「一边收购一边裁员」分化现象。",
+  "topics": [
+    {
+      "id": 1,
+      "title": "AI安全的武器化时刻到了?",
+      "score": 9.5,
+      "body": "Anthropic发布Claude Mythos及Project Glasswing(原文已读), 首次将网络安全专用大模型限制为安全研究者使用; Import AI报道网络战出现「扩展定律」——攻击效率随模型规模指数增长(原文已读); OpenAI同步启动安全研究奖学金(标题推断), arXiv出现将AI治理规范转化为运行时护栏的方法论(标题推断)。\n\n核心矛盾不是「AI能不能做安全」, 而是「安全能力本身就是武器」。Glasswing模式——造出最强网络攻防模型然后限制访问——本质是把安全变成了一种许可制资源。这种模式如果成立, 安全能力的不对称性将进一步拉大, 没有自研安全模型的公司将永久依赖少数供应商。\n\n如果你在做Agent产品, 现在最该思考的不是「怎么防御」, 而是Glasswing这种攻防一体模型会不会成为行业安全基础设施的标配——第一个吃螃蟹的Anthropic已经在定义游戏规则。",
+      "tags": ["AI安全", "网络安全", "Anthropic", "Agent安全", "Glasswing", "攻防模型"],
+      "credibility_note": "Anthropic Glasswing系统卡及Project Glasswing(原文已读), Import AI 452网络战扩展定律(原文已读), OpenAI安全奖学金(标题推断), arXiv Agent治理护栏(标题推断)"
+    },
+    {
+      "id": 2,
+      "title": "端侧多模态AI跨过产品线了?",
+      "score": 9.0,
+      "body": "Google一周内连发三张牌: Gemma 4多模态系列覆盖从云到端(原文已读)、AI Edge Gallery应用让手机直接跑Gemma模型(标题推断)、Eloquent离线AI听写功能上线(标题推断)。IBM同步发布Granite 4.0 3B Vision企业文档模型(标题推断), TII推出Falcon Perception视觉感知模型(标题推断)。\n\n端侧AI的瓶颈从「能不能跑」变成了「跑得好不好用」。Gemma 4的E2B(20亿参数)在证明: 多模态不需要百亿参数也能做到可用。真正的竞争不在模型大小, 在于谁先把模型变成手机上的原生功能——Google已经开始了。\n\nMIT近期指出模型定制化已是「架构必需」(标题推断), 端侧正是定制化最自然的战场。如果你在做AI应用, 现在该评估的是: 你的场景真的需要云端大模型, 还是2B参数的端侧模型就够了?",
+      "tags": ["端侧AI", "Gemma 4", "多模态", "Google", "模型定制化", "边缘计算"],
+      "credibility_note": "Gemma 4发布(原文已读, HuggingFace+NVIDIA双源), AI Edge Gallery及Eloquent(标题推断), Granite 4.0 3B Vision(标题推断), MIT模型定制化(标题推断)"
+    },
+    {
+      "id": 3,
+      "title": "企业Agent: 重写组织还是贴补丁?",
+      "score": 8.7,
+      "body": "MIT科技评论提出「Agent优先的流程再造」(原文已读)——不是在现有流程中插入AI, 而是以Agent为核心重新设计组织流程; Sequoia发文探讨从层级制到智能化的转型路径(原文已读), 并投资了为Agent提供规模化上下文管理的Edra(原文已读); AWS一周推出多个Agent工具, 从HR入职到工具调用微调(标题推断)。\n\n这里有一个清晰的分歧: 多数企业在做的是「把Agent塞进Excel」, 而MIT和Sequoia指向的是「扔掉Excel」。Edra这类上下文基础设施的出现说明: Agent在企业落地的瓶颈不是模型能力, 是Agent没有组织上下文——它不知道这家公司怎么运转。\n\n谁先解决「Agent的组织认知」问题, 谁就拿到企业AI的入场券。现在投入时间研究Agent的上下文工程, 比追模型能力更值。",
+      "tags": ["企业AI", "Agent部署", "组织变革", "流程自动化", "Sequoia", "上下文工程"],
+      "credibility_note": "MIT Agent流程再造(原文已读), Sequoia层级到智能化(原文已读), Sequoia投资Edra(原文已读), AWS Agent工具(标题推断)"
+    },
+    {
+      "id": 4,
+      "title": "AI推理定价战全面开打",
+      "score": 8.3,
+      "body": "Google为Gemini API新增Flex和Priority两档推理层级, 让开发者在成本和可靠性间做选择(原文已读); OpenAI的Codex推出按量付费模式(标题推断); NVIDIA宣称通过极致协同设计实现「最低Token成本」(标题推断); AWS上线Bedrock Projects做推理成本归属管理(标题推断)。\n\n四大平台同时在推理定价上做文章, 说明Token已从技术指标变成定价武器。Google的Flex模式尤其值得注意: 它第一次把「我愿意等更久来省钱」变成了正式产品——本质上是在卖算力的期货。当Token价格可以按延迟分级, AI应用的成本结构将被彻底改写。\n\n如果你在做AI产品的商业模型, 现在最该研究的不是「哪个模型便宜」, 而是推理定价分层会不会催生出「低延迟高价+高延迟低价」的双轨市场——你的用户到底需要哪一档?",
+      "tags": ["Token经济", "推理成本", "定价策略", "Gemini", "OpenAI", "NVIDIA"],
+      "credibility_note": "Gemini Flex/Priority定价(原文已读), Codex按量付费(标题推断), NVIDIA协同设计(标题推断), Bedrock成本管理(标题推断)"
+    },
+    {
+      "id": 5,
+      "title": "多Agent编排走进测试时代",
+      "score": 7.9,
+      "body": "Google Cloud开源了Agent编排测试平台Scion(标题推断); Import AI报道Google内部在探索「心智社会」式多Agent协作架构(原文已读); arXiv本周出现多个多Agent框架: PaperOrchestra做自动论文写作, MMORF做多目标化学合成规划(标题推断); AWS发布Agent工具调用的RLVR微调方案(标题推断)。\n\n多Agent系统过去一年最大的问题是「没有测试方法」——你造了一个多Agent系统, 怎么知道它比单Agent好? Scion的出现试图填这个空白。但更深层的问题是: 多Agent到底解决什么单Agent解决不了的问题? Google的Society of Mind式架构暗示答案可能是「专业化分工」, 而不是「更多脑子更聪明」。\n\n这个方向处于从概念验证到工程标准化的关键过渡期。如果你在做Agent系统, 现在该投入的是评估框架和失败模式分析, 而不是急着加更多Agent。",
+      "tags": ["多Agent", "Agent编排", "测试评估", "Google Scion", "多智能体协作"],
+      "credibility_note": "Import AI 451 Google多Agent架构(原文已读), Google Scion开源(标题推断), arXiv PaperOrchestra/MMORF(标题推断), AWS工具调用微调(标题推断)"
+    },
+    {
+      "id": 6,
+      "title": "LLM通用能力见顶, 专精化接棒?",
+      "score": 7.6,
+      "body": "MIT科技评论指出LLM推理和编码能力的飞跃已趋缓, 企业必须转向模型定制化(标题推断); 智谱发布GLM-5.1, 专攻长时间跨度任务(原文已读); Apple参与的Pramana用印度古典逻辑体系微调LLM提升推理(标题推断); ReVEL用多轮反思式LLM引导自动设计NP-hard问题的启发式算法(标题推断)。\n\n「通用模型越来越强」的叙事正在被「通用能力增速放缓」替代。GLM-5.1选择在长程任务这个垂直能力上做突破而非追求综合跑分, 可能代表下一阶段的竞争逻辑: 不比谁最全面, 比谁在特定维度上不可替代。Pramana用哲学逻辑体系做微调更说明: 能力提升的杠杆在数据和方法论, 不在参数量。\n\n现在建立「模型能力地图」——哪些任务通用模型够用, 哪些需要专精模型——比追踪下一个GPT-X更有实操价值。",
+      "tags": ["LLM", "模型定制化", "专精化", "GLM-5.1", "微调", "推理能力"],
+      "credibility_note": "GLM-5.1长程任务(原文已读), MIT模型定制化必需(标题推断), Pramana认知推理(标题推断), ReVEL启发式进化(标题推断)"
+    },
+    {
+      "id": 7,
+      "title": "AI视频免费化倒逼赛道洗牌",
+      "score": 7.5,
+      "body": "Google Vids整合Lyria和Veo技术推出免费AI视频生成功能(原文已读); Veo 3.1 Lite发布, 主打「最具性价比」视频生成(标题推断)。上一期Sora关停、可灵靠API月收千万美元的格局还未稳固, Google直接把视频生成做成了免费功能。(持续趋势·已追踪3期)\n\n当Google把AI视频生成变成Workspace的免费附属功能, 这个赛道的商业逻辑被根本性改变了: 视频生成不是产品, 是功能。独立视频生成公司面临的不是「怎么收费」的问题, 而是「用户为什么不用免费的Google」。可灵的API路线因此显得更有远见——它卖的不是视频, 是能力。\n\n短期内AI视频赛道会出现剧烈分化: 免费层(Google)吃掉casual用户, API层(可灵)服务专业客户。如果你在做视频产品, 现在该做的选择不是技术选型, 是用户分层。",
+      "tags": ["AI视频生成", "Google Vids", "Veo", "免费化", "商业模式"],
+      "credibility_note": "Google Vids免费AI视频功能(原文已读), Veo 3.1 Lite(标题推断)"
+    },
+    {
+      "id": 8,
+      "title": "游戏公司AI战略: 加仓还是割肉?",
+      "score": 7.3,
+      "body": "索尼收购机器学习公司Cinemersive Labs, 用于增强游戏画面渲染(标题推断); Take-Two裁撤AI负责人及团队(标题推断); Stormgate因AI公司收回服务器紧急开发离线模式(标题推断); Coffee Stain关闭马尔默工作室(标题推断)。\n\n同一周, 索尼在加仓游戏AI(收购ML公司), Take-Two在割肉(裁AI团队)。这不是矛盾, 而是分化: 平台方(索尼)把AI视为渲染基础设施值得长期投资, 内容方(Take-Two)发现AI还无法直接转化为游戏收入就先止血。Stormgate的遭遇更残酷——连服务器都被AI公司抢走了, AI行业的算力需求正在物理层面挤压游戏行业。\n\n游戏行业对AI的态度正在从「要不要用」变成「哪个环节用得起」。如果你在关注AI x 游戏, 现在该追踪的不是谁在用AI, 而是索尼和Take-Two分别押注了什么、放弃了什么。",
+      "tags": ["AI x 游戏", "索尼", "Take-Two", "游戏行业", "算力竞争", "AI并购"],
+      "credibility_note": "索尼收购Cinemersive(标题推断), Take-Two裁AI团队(标题推断), Stormgate服务器(标题推断), Coffee Stain关闭工作室(标题推断)"
+    },
+    {
+      "id": 9,
+      "title": "桌面操控Agent有了评分卡, 然后呢?",
+      "score": 7.0,
+      "body": "Holo3模型在Computer Use任务上取得突破性进展, 推动AI自主操控桌面的能力边界(原文已读); arXiv的IntentScore提出基于意图的CUA动作评估方法(标题推断); ClawsBench针对邮件、日程、文档等生产力场景构建Agent安全评估基准(标题推断); OpenBrowser-AI开源浏览器Agent连接方案(标题推断)。\n\nComputer Use Agent的瓶颈从「能不能点击」变成了「该不该点击」。IntentScore和ClawsBench代表了一种成熟化信号: 当学术界开始造评分卡, 说明这个方向正从酷炫demo进入可测量可比较阶段。但真正的挑战是安全——一个能操控你桌面的Agent, 它的权限边界怎么划?\n\nComputer Use是Agent落地的最后一公里, 也是安全风险最高的一公里。如果你在做Agent基础设施, 现在研究CUA的权限模型和失败模式比追求能力提升更急迫。",
+      "tags": ["Computer Use", "CUA", "Agent评估", "桌面自动化", "Holo3", "安全基准"],
+      "credibility_note": "Holo3突破Computer Use(原文已读), IntentScore意图评估(标题推断), ClawsBench生产力安全基准(标题推断), OpenBrowser-AI(标题推断)"
+    }
+  ],
+  "signal_window": "2026-03-24 至 2026-04-08",
+  "sources": ["daily-site-game", "daily-site-ai", "Import AI", "arXiv cs.AI", "The Batch", "VentureBeat AI", "GameDiscoverCo", "OpenAI Blog", "Hugging Face Blog", "Game Developer", "TechCrunch AI", "Google AI Blog", "MIT Technology Review AI", "NVIDIA Developer Blog", "AWS ML Blog", "Unity Blog", "Unreal Engine Blog", "Hacker News", "Product Hunt", "Simon Willison's Blog", "Sequoia Capital Blog", "Crunchbase News", "WebSearch"]
+}

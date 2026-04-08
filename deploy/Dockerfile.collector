@@ -1,0 +1,32 @@
+# 定时信号采集容器
+# 每12小时运行 collect_signals.py → import_signals_to_db.py
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# 安装 cron
+RUN apt-get update && apt-get install -y cron && rm -rf /var/lib/apt/lists/*
+
+# 安装 Python 依赖（采集脚本 + 导入脚本）
+COPY backend/requirements.txt /app/backend/requirements.txt
+RUN pip install --no-cache-dir -r /app/backend/requirements.txt
+
+# 复制代码
+COPY collect_signals.py /app/
+COPY backend/ /app/backend/
+
+# 创建 workspace 目录
+RUN mkdir -p /app/workspace
+
+# 采集脚本
+COPY deploy/collect_and_import.sh /app/collect_and_import.sh
+RUN chmod +x /app/collect_and_import.sh
+
+# Cron 配置：每12小时（UTC 0:00 和 12:00）运行
+RUN echo "0 0,12 * * * cd /app && /app/collect_and_import.sh >> /var/log/collector.log 2>&1" > /etc/cron.d/collector \
+    && chmod 0644 /etc/cron.d/collector \
+    && crontab /etc/cron.d/collector
+
+# 启动 cron 前台运行
+CMD ["cron", "-f"]
